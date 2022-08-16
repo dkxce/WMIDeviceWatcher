@@ -1,3 +1,3 @@
 # WMIDeviceWatcher
 
-Track device additions, removals, or changes from any Win App
+Track device add, remove, or change from any Win App
